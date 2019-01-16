@@ -1,0 +1,16 @@
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.exe.config
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.exe
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.pdb
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.exe
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.pdb
+E:\Clue-Box Work\V.Studio\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.csprojResolveAssemblyReference.cache
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.exe.config
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.exe
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.pdb
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.exe
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\Phil_CoffeeParser.pdb
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\PHIL-Parsing ALL\Phil_CoffeeParser\Phil_CoffeeParser\obj\Debug\Phil_CoffeeParser.csprojResolveAssemblyReference.cache
